@@ -36,7 +36,7 @@
 
 ## TDD 流程可以分成五個步驟：  
 
-![image]()
+![image](https://github.com/lzz0826/TDD/blob/main/src/main/resources/static.images/%202022-12-1510.00.12.png)
 
 ### 步驟一：選定一個功能，新增測試案例  
 重點在於思考希望怎麼去使用目標程式，定義出更容易呼叫的 API 介面。   
