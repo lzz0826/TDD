@@ -9,8 +9,8 @@ public class Item {
     private double unitPrice;
     private int quantity;
 
-    //给予 double unitPrice(商品价格)
-//           int  unitPrice(数量)
+    //給予 double unitPrice(商品價格)
+//           int  unitPrice(數量)
     public Item(double unitPrice, int quantity) {
         this.unitPrice = unitPrice;
         this.quantity = quantity;
@@ -18,12 +18,12 @@ public class Item {
 
 
     //test2 返回 unitPrice
-    //使用自动生成 Item , double unitPrice 利用传来得参数
+    //使用自動生成 Item , double unitPrice 利用傳來得參數
     public double getUnitPrice() {
         return unitPrice;
     }
 
-    //test4 自动添加
+    //test4 自動添加
     public int getQuantaty() {
         return quantity;
     }
