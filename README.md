@@ -46,6 +46,8 @@ TDD : 寫測試 -> 寫完代碼 -> 重構 -> 測試完成 .代碼完成
 
 ## TDD 流程可以分成五個步驟：  
 
+![image](https://github.com/lzz0826/TDD/blob/main/src/main/resources/static.images/2022-12-19%2010.16.35.png)
+
 ![image](https://github.com/lzz0826/TDD/blob/main/src/main/resources/static.images/%202022-12-1510.00.12.png)
 
 ### 步驟一：選定一個功能，新增測試案例  
