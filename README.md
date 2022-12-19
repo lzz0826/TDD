@@ -41,12 +41,17 @@ TDD : 寫測試 -> 寫完代碼 -> 重構 -> 測試完成 .代碼完成
 這一點算是使用 TDD 開發附帶的好處，因為我們在開發的同時，一邊也在寫著測試，程式的測試覆蓋率會非常高。   
 開發後一次編寫所有測試，較容易忽略一些可能發生的正常執行情況，另一方面一次花費大量的編寫時間。   
 
+![image](https://github.com/lzz0826/TDD/blob/main/src/main/resources/static.images/2022-12-19%2010.16.35.png)
+
+Red – 先寫測試程式，此時因為還沒有實作功能，所以這個測試是會失敗
+Green - 快速實作出功能，讓上述的測試通過
+Refactor - 重構程式碼，去除多餘重複的代碼，提高程式碼品質，同時維持測試通過
+
 <br>
 <br>
 
 ## TDD 流程可以分成五個步驟：  
 
-![image](https://github.com/lzz0826/TDD/blob/main/src/main/resources/static.images/2022-12-19%2010.16.35.png)
 
 ![image](https://github.com/lzz0826/TDD/blob/main/src/main/resources/static.images/%202022-12-1510.00.12.png)
 
